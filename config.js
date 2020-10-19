@@ -2,7 +2,8 @@ const config = {
     title: 'Rachel Chen - All My Links',
     favicon: 'https://miragespace.com/images/logo/miragespace.svg',
 
-    bgClass: 'bg-indigo-800',
+    // See https://tailwindcss.com/docs/customizing-colors#default-color-palette
+    bgClass: 'bg-indigo-900',
 
     name: 'Rachel Chen',
     avatar: 'https://github.com/zllovesuki.png',
