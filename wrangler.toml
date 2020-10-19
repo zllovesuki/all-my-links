@@ -1,0 +1,8 @@
+name = "rachel-links"
+type = "webpack"
+account_id = "6259e0f35111d6c3f7b6aa38ded6eccc"
+zone_id = "f332067b5a874d424044eebe0806a592"
+workers_dev = true
+
+[env.prod]
+route = "rachel.chens.link/*"
