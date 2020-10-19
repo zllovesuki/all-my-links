@@ -30,6 +30,10 @@ const config = {
             name: 'LinkedIn',
             link: 'https://linkedin.com/in/msrachelchen',
         },
+        {
+            name: 'git',
+            link: 'https://github.com/zllovesuki/all-my-links',
+        },
     ],
 }
 
