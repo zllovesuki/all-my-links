@@ -24,6 +24,14 @@ const config = {
     ],
     socials: [
         {
+            name: 'Matrix',
+            link: 'https://matrix.to/#/@rachel:owo.lu',
+        },
+        {
+            name: 'ProtonMail',
+            link: 'mailto:rachel@chens.email',
+        },
+        {
             name: 'GitHub',
             link: 'https://github.com/zllovesuki',
         },
