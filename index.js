@@ -28,7 +28,7 @@ function handleLinks(links) {
         headers: { 'content-type': 'application/json' },
     }
     const body = JSON.stringify(links)
-    return new Response(body)
+    return new Response(body, init)
 }
 
 async function handleRequest(request) {
